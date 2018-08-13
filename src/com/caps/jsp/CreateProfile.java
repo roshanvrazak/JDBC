@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class CreateProfile {
 
 	public static void main(String[] args) {
-		// saving user details into database permanently
+		// saving user details into database permanently  
 
 		Connection con = null;
 		PreparedStatement pstmt = null;
